@@ -1,1 +1,1 @@
-# liri-node-app
+The LIRI node app is a command line node app where users can search for my tweets, songs from spotify, or movies from the OMDB API database simply by typing the appropriate commands into the node command line. 
